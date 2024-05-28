@@ -5,8 +5,8 @@ Este é um projeto de aplicativo de chat construído com Flutter, utilizando o p
 ## Capturas de Tela
 
 <p align="center">
-  <img src="assets/images/inicio.png" width="200" alt="Tela de Splash">
-  <img src="assets/images/home.png" width="200" alt="Tela de Chat">
+  <img src="image/inicio.png" width="200" alt="Tela de Splash">
+  <img src="image/home.png" width="200" alt="Tela de Chat">
 
 ## Funcionalidades
 
@@ -88,5 +88,5 @@ assets/
 ## Licença
 
 Este projeto é licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
-```
+
 
